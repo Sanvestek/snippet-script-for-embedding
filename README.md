@@ -1,0 +1,1 @@
+# snippet-script-for-embedding
