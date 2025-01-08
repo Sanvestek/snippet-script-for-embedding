@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Content meta tag test <u>Maximum</u></title>
+</head>
+<meta property="og:title" content="Short code test with meta tags" />
+<meta property="og:url" content="sanvestek.com/meta_test" />
+<meta property="og:description" content="This is a test to see how the meta property tags affect the fields in the license generated through the short code. In this case I am also testing using a false meta url of 'sanvestek.com/meta_test' while the true site is on Github." />
+<meta property="og:image" content="https://plugintester27.wordpress.com/wp-content/uploads/2025/01/cool__yoshi_commission__by_loulouvz_dfw7e58-pre.jpg" />
+<meta property="og:image:width" content="894" />
+<meta property="og:image:height" content="894" />
+<body>
+    <h1>Contenseo ShortScript meta tags test</h1>
+    <p>This is another test of the Contenseo ShortCode snippet in <b>html</b> testing the use of meta tags to define the title, description, and image (if any) of the license page</p></br>
+    <div>
+        <script
+            src="https://app.contenseo.com/widget/tezAsatv.js">
+        </script>
+    </div>
+</body>
+</html>
